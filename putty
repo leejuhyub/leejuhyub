@@ -1,0 +1,187 @@
+  1  cat -n helloWorld.c
+    2  cat helloWorld.c
+    3  ls
+    4  cat helloWorld.c
+    5  vi helloWorld
+    6  vi helloWorld.c
+    7  cat helloWorld.c
+    8  vi helloWorld.c
+    9  cat helloWorld.c
+   10  ./a.out
+   11  cc helloWolrd.c
+   12  cc helloWorld.c
+   13  ./a.out
+   14  ls
+   15  ./.a.out
+   16  vi
+   17  whi
+   18  who
+   19  ls
+   20  mkdir src
+   21  ls
+   22  mkdir test1 test2
+   23  ls
+   24  ls-l
+   25  ls -l
+   26  cat memo
+   27  cp memo memo2
+   28  ls
+   29  cat memo
+   30  cp helloWorld.c sumM2N.c test.c src
+   31  ls
+   32  cat memo
+   33  ls -l
+   34  ls
+   35  vi
+   36  cd home
+   37  cd /
+   38  ls
+   39  cd / usr
+   40  ls
+   41  cat helloWorld.c
+   42  vi hellow=
+   43  vi helloWorld.c
+   44  ls
+   45  ls -l
+   46  who
+   47  what is ls
+   48  whatis ls
+   49  whatis cp
+   50  vi f1
+   51  vi f2
+   52  vi f3
+   53  vi f33
+   54  ls
+   55  ls f?
+   56  ls f??
+   57  ls [a-lt]*
+   58  ls
+   59  srls -l
+   60  ls -l
+   61  umask 066
+   62  cp f1 f2
+   63  ls -l
+   64   echo my name is Hong Kil Dong
+   65  cat sortData
+   66  vi SelectSort
+   67  cat selSort
+   68  PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+   69  cat selSort.c
+   70  vi BubbleSort
+   71  ./BubbleSort < sortData
+   72  cat BubbleSort
+   73  cc -o BubbleSort BubbleSort.c
+   74  cat BubbleSort.c
+   75  cp BubbleSort BubbleSort.c
+   76  ./BubbleSort < sortData
+   77  ./ BubbleSort.c <sortData
+   78  ./ BubbleSort < sortData
+   79  ./BubbleSort<sortData
+   80  cc BubbleSort
+   81  cat sortData
+   82  cat BubbleSort.c
+   83  cc -o BubbleSort.c BubbleSort
+   84  ./ BubbleSort < sortData
+   85  ls -l
+   86  cat BubbleSort.c
+   87  vi BubbleSort.c
+   88  who
+   89  ls -l
+   90  cc helloWorld.c
+   91  cat helloWorld.c
+   92  ./helloWorld.c
+   93  ./helloWorld
+   94  cc helloWorld.c
+   95  ./a.out
+   96  who
+   97  /home
+   98  mkdir midexam
+   99  ls -d
+  100  ls -l
+  101  chmod midexam
+  102  ls -l
+  103  chmod g+w midexam
+  104  li -l
+  105  ls-l
+  106  ls -l
+  107  chmod 777 midexam
+  108  ls -l
+  109  cat midexam
+  110  mv midexam
+  111  vi indata
+  112  mv indata midexam
+  113  vi maxmin.c
+  114  cc -0 maxmin maxmin.c
+  115  cat maxmin.c
+  116  cc -o maxmin maxmin.c
+  117  vi maxmin.c
+  118  cc -o maxmin maxmin.c
+  119  ./maxmin < indata
+  120  cat indata
+  121  vi indata
+  122  cat indata
+  123  ./ maxmin < indata
+  124  ./maxmin.c < indata
+  125  ls -l
+  126  ./maxmin
+  127  who
+  128  ls -l
+  129  cat maxmin
+  130  PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+  131  cat maxmin.c
+  132  vi maxmin.c
+  133  ./maxmin.c < indata
+  134  ./maxmin < indata
+  135  cat maxmin
+  136  PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+  137  cc -o maxmin maxmin.c
+  138  ./maxmin <indata
+  139  cat indata
+  140  vi indata.c
+  141  vi maxmin.c
+  142  ./ maxmin < indata
+  143  cc -o maxmin maxmin.c
+  144  ./maxmin < indata
+  145  vi maxmin.c
+  146  cc -o maxmin maxmin.c
+  147  ./ maxmin < indata
+  148  cat maxmin.c
+  149  cc -o maxmin maxmin.c
+  150  ./maxmin < indata
+  151  vi maxminc.
+  152  vi maxmin.c
+  153  cc -o maxmin maxmin.c
+  154  ./ maxmin < indata
+  155  cat maxmin
+  156  PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+  157  cat maxmin.c
+  158  cc -o maxmin maxmin.c
+  159  ./maxmin < indata
+  160  vi maxmin.c
+  161  cc -o maxmin maxmin.c
+  162  vi maxmin.c
+  163  cc -o maxmin maxmin.c
+  164  ./maxmin < indata
+  165  vi maxmin.c
+  166  cc -o maxmin maxmin.c
+  167  ./maxmin < indata
+  168  vi maxmin.c
+  169  cc -o maxmin maxmin.c
+  170  ./maxmin < indata
+  171  vi maxmin.c
+  172  cc -o maxmin maxmin.c
+  173  ./maxmin < indata
+  174  vi maxminc.c
+  175  vi maxmin.c
+  176  cc -o maxmin maxmin.c
+  177  ./maxmin < indata
+  178  vi fibo.c
+  179  cc -o fibo fibo.c
+  180  ./fibo
+  181  cat fibo
+  182  PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+  183  ./fibo > result
+  184  vi result2
+  185  ./fibo > result2
+  186  cat result2
+  187  history
